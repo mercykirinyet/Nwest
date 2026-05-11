@@ -54,7 +54,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-start gap-2 text-sm text-primary-foreground/70">
                 <MapPin className="w-4 h-4 mt-0.5 text-gold shrink-0" />
-                <span>Kenya House Complex, 2nd Floor, Koinange Street, Nairobi</span>
+                <span>Uniafric House, 3rd Floor, Koinange Street, Nairobi</span>
               </div>
               <a href="tel:+254728799167" className="flex items-center gap-2 text-sm text-primary-foreground/70 hover:text-gold transition-colors">
                 <Phone className="w-4 h-4 text-gold" />

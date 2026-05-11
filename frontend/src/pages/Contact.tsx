@@ -9,7 +9,7 @@ import { Phone, Mail, MapPin, Clock, Send } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const offices = [
-  { city: "Nairobi (Head Office)", address: "Kenya House Complex, 2nd Floor, Koinange Street", phone: "+254 728 799 167", email: "nwestvaluerslt@gmail.com" },
+  { city: "Nairobi (Head Office)", address: "Uniafric House, 3rd Floor, Koinange Street", phone: "+254 728 799 167", email: "nwestvaluerslt@gmail.com" },
   { city: "Nakuru", address: "Farming Systems Kenya Building", phone: "+254 728 799 167" },
   { city: "Kisii", address: "Ouru Towers", phone: "+254 722 948 032" },
   { city: "Migori", address: "Pinacle Centre", phone: "+254 722 948 032" },
@@ -71,7 +71,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm font-semibold text-foreground">Head Office</p>
-                  <p className="text-sm text-muted-foreground">Kenya House Complex, 2nd Floor, Koinange Street, Nairobi</p>
+                  <p className="text-sm text-muted-foreground">Uniafric House, 3rd Floor, Koinange Street, Nairobi</p>
                   <p className="text-sm text-muted-foreground">P.O BOX 57405-00200 Nairobi</p>
                 </div>
               </div>

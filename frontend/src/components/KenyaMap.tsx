@@ -2,7 +2,7 @@ import { useState } from "react";
 import { MapPin, Phone, Building2 } from "lucide-react";
 
 const offices = [
-  { city: "Nairobi", address: "Kenya House Complex, 2nd Floor, Koinange Street", phone: "+254 728 799 167", x: 54, y: 62, isHQ: true },
+  { city: "Nairobi", address: "Uniafric House, 3RD Floor, Koinange Street", phone: "+254 728 799 167", x: 54, y: 62, isHQ: true },
   { city: "Nakuru", address: "Farming Systems Kenya Building", phone: "+254 728 799 167", x: 48, y: 55 },
   { city: "Kisii", address: "Ouru Towers", phone: "+254 722 948 032", x: 42, y: 60 },
   { city: "Migori", address: "Pinacle Centre", phone: "+254 722 948 032", x: 38, y: 63 },
