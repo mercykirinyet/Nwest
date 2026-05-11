@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 rounded bg-gold-gradient flex items-center justify-center">
-                <span className="font-display font-bold text-primary text-sm">N</span>
+                <span className="font-display font-bold text-primary text-sm">NWL</span>
               </div>
               <span className="font-display text-lg font-bold">NWest <span className="text-gold">Valuers</span></span>
             </div>
