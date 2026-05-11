@@ -22,7 +22,7 @@ const Navbar = () => {
       <div className="container-narrow section-padding !py-0 flex items-center justify-between h-20">
         <Link to="/" className="flex items-center gap-3">
           <div className="w-10 h-10 rounded bg-gold-gradient flex items-center justify-center">
-            <span className="font-display font-bold text-primary text-lg">N</span>
+            <span className="font-display font-bold text-primary text-lg">NWL</span>
           </div>
           <div>
             <span className="font-display text-xl font-bold text-primary-foreground">NWest</span>
